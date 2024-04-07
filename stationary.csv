@@ -1,0 +1,101 @@
+Transaction ID,Items
+1,"{notebook, pen, ruler}"
+2,{ruler}
+3,{pen}
+4,"{notebook, pen, ruler}"
+5,{pen}
+6,"{pencil, notebook}"
+7,"{notebook, ruler, pen, pencil}"
+8,"{notebook, ruler, pencil, pen}"
+9,"{ruler, pen}"
+10,{pen}
+11,"{pencil, notebook, pen, ruler}"
+12,"{ruler, notebook, pen, pencil}"
+13,"{notebook, pen, pencil, ruler}"
+14,"{ruler, notebook, pencil}"
+15,"{pencil, notebook, ruler, pen}"
+16,{notebook}
+17,"{pencil, ruler, pen, notebook}"
+18,"{notebook, ruler, pen}"
+19,{pencil}
+20,"{ruler, notebook, pencil}"
+21,"{notebook, pencil, pen}"
+22,"{pencil, notebook}"
+23,{notebook}
+24,"{notebook, pencil}"
+25,"{notebook, pencil, ruler}"
+26,"{pen, ruler, notebook, pencil}"
+27,"{pencil, ruler, pen, notebook}"
+28,"{notebook, ruler, pen}"
+29,"{ruler, pencil, pen, notebook}"
+30,"{pencil, pen}"
+31,"{pencil, pen, ruler}"
+32,"{pen, ruler, pencil, notebook}"
+33,"{notebook, pencil, ruler, pen}"
+34,"{ruler, notebook, pen, pencil}"
+35,"{pen, pencil}"
+36,"{pencil, pen}"
+37,"{pencil, ruler, notebook}"
+38,"{notebook, pencil}"
+39,{notebook}
+40,"{pen, ruler}"
+41,"{notebook, ruler, pencil, pen}"
+42,"{pen, notebook, pencil}"
+43,"{pencil, notebook}"
+44,{notebook}
+45,{notebook}
+46,"{notebook, pen, pencil}"
+47,{ruler}
+48,"{ruler, pencil}"
+49,"{ruler, pen, notebook, pencil}"
+50,"{pen, pencil}"
+51,"{ruler, pencil, pen, notebook}"
+52,"{pencil, notebook, pen, ruler}"
+53,"{ruler, notebook}"
+54,{pencil}
+55,"{ruler, pencil, pen, notebook}"
+56,{notebook}
+57,"{pencil, notebook, pen, ruler}"
+58,"{ruler, pen}"
+59,"{ruler, pen}"
+60,{pen}
+61,{ruler}
+62,{notebook}
+63,{pencil}
+64,"{pencil, pen, notebook, ruler}"
+65,{ruler}
+66,"{notebook, pen}"
+67,"{ruler, pen}"
+68,{ruler}
+69,"{pen, ruler, pencil, notebook}"
+70,{pen}
+71,"{ruler, notebook, pencil}"
+72,{pencil}
+73,"{pen, ruler}"
+74,"{notebook, pen, ruler}"
+75,"{notebook, pen, ruler, pencil}"
+76,"{pen, ruler, pencil, notebook}"
+77,"{pencil, notebook, pen}"
+78,"{notebook, pen, ruler}"
+79,{notebook}
+80,"{notebook, pencil}"
+81,{ruler}
+82,"{pen, ruler, notebook}"
+83,"{pencil, ruler, notebook, pen}"
+84,"{pencil, ruler}"
+85,"{pencil, pen}"
+86,{notebook}
+87,"{ruler, pencil, pen}"
+88,"{notebook, ruler, pen}"
+89,"{notebook, pen, pencil, ruler}"
+90,"{notebook, pen}"
+91,"{pen, ruler, notebook}"
+92,{notebook}
+93,"{pen, pencil, ruler, notebook}"
+94,"{ruler, pencil}"
+95,"{pen, notebook}"
+96,"{ruler, notebook, pen, pencil}"
+97,"{notebook, ruler, pencil}"
+98,"{pen, notebook, pencil, ruler}"
+99,"{ruler, notebook, pencil, pen}"
+100,"{notebook, pen}"

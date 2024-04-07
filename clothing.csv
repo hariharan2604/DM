@@ -1,0 +1,101 @@
+Transaction ID,Items
+1,"{shoes, pant, socks}"
+2,{shoes}
+3,"{shirt, shoes, pant}"
+4,"{shoes, socks, shirt, pant}"
+5,"{socks, shirt, shoes, pant}"
+6,"{pant, socks, shoes, shirt}"
+7,"{shirt, shoes, pant, socks}"
+8,"{socks, shirt, pant, shoes}"
+9,"{socks, shoes, shirt}"
+10,"{shirt, pant}"
+11,"{socks, shirt, pant}"
+12,{pant}
+13,"{shirt, pant}"
+14,"{pant, shirt}"
+15,"{socks, shirt, shoes}"
+16,"{shirt, pant, socks, shoes}"
+17,"{shoes, socks, pant}"
+18,"{pant, socks}"
+19,"{pant, shirt, socks, shoes}"
+20,"{shoes, pant}"
+21,{pant}
+22,"{shoes, shirt, pant, socks}"
+23,"{socks, pant, shirt, shoes}"
+24,{shirt}
+25,{pant}
+26,{socks}
+27,"{shoes, socks}"
+28,{shoes}
+29,"{shirt, pant, socks}"
+30,"{shoes, pant}"
+31,"{pant, shirt}"
+32,{pant}
+33,"{pant, shirt, socks}"
+34,"{shirt, shoes}"
+35,"{shoes, shirt, socks}"
+36,"{pant, shoes, socks}"
+37,{pant}
+38,"{pant, shoes, shirt}"
+39,"{shoes, shirt}"
+40,{shirt}
+41,"{shirt, socks, shoes, pant}"
+42,"{shoes, socks, shirt, pant}"
+43,"{shirt, pant, shoes}"
+44,"{shoes, shirt, pant}"
+45,"{shirt, pant, socks, shoes}"
+46,"{pant, shoes}"
+47,"{socks, shirt}"
+48,"{shirt, socks, pant, shoes}"
+49,"{pant, shirt}"
+50,"{pant, shirt}"
+51,{shirt}
+52,{pant}
+53,"{shirt, socks, pant, shoes}"
+54,"{shoes, socks, pant}"
+55,"{shoes, pant, shirt}"
+56,"{shoes, pant, shirt}"
+57,"{pant, shirt}"
+58,"{socks, shirt, shoes, pant}"
+59,"{pant, shoes}"
+60,"{pant, shoes}"
+61,{shirt}
+62,"{shoes, socks, shirt}"
+63,{pant}
+64,{socks}
+65,"{socks, pant}"
+66,"{shoes, pant, socks, shirt}"
+67,"{shoes, pant}"
+68,"{pant, shirt, shoes}"
+69,"{shoes, socks, shirt, pant}"
+70,"{socks, shoes, shirt}"
+71,"{socks, pant, shirt}"
+72,"{socks, shoes}"
+73,{shoes}
+74,"{shirt, pant, shoes}"
+75,"{shirt, shoes}"
+76,"{socks, pant}"
+77,"{socks, shirt, pant, shoes}"
+78,"{pant, shirt, socks, shoes}"
+79,"{shoes, shirt, socks}"
+80,"{shoes, socks}"
+81,{shirt}
+82,"{pant, shoes}"
+83,"{shoes, pant, shirt}"
+84,"{socks, pant, shoes, shirt}"
+85,"{shoes, pant}"
+86,"{shoes, pant, shirt}"
+87,"{shirt, socks, pant, shoes}"
+88,{shirt}
+89,"{shirt, pant}"
+90,{shoes}
+91,{socks}
+92,{socks}
+93,"{shoes, pant, shirt}"
+94,"{socks, pant, shirt}"
+95,"{pant, shirt, shoes}"
+96,{pant}
+97,{shirt}
+98,"{socks, shirt, shoes}"
+99,"{shirt, shoes}"
+100,"{pant, socks, shoes}"

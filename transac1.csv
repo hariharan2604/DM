@@ -1,0 +1,101 @@
+Transaction ID,Items
+1,{eggs}
+2,"{bread, milk, cheese}"
+3,"{eggs, milk, bread}"
+4,"{bread, cheese, eggs, milk}"
+5,"{cheese, bread, milk, eggs}"
+6,"{milk, eggs, bread}"
+7,{cheese}
+8,"{bread, eggs, cheese, milk}"
+9,"{cheese, eggs, milk, bread}"
+10,"{eggs, cheese, milk, bread}"
+11,"{cheese, milk, eggs, bread}"
+12,"{cheese, milk, bread, eggs}"
+13,"{cheese, eggs}"
+14,"{bread, eggs, cheese, milk}"
+15,{bread}
+16,"{bread, eggs}"
+17,"{eggs, cheese, bread}"
+18,{cheese}
+19,"{milk, bread, eggs}"
+20,"{eggs, cheese}"
+21,"{eggs, bread, milk}"
+22,"{eggs, cheese}"
+23,"{milk, eggs}"
+24,{bread}
+25,"{milk, bread, cheese}"
+26,"{milk, cheese}"
+27,"{bread, milk, cheese, eggs}"
+28,"{eggs, cheese, milk, bread}"
+29,"{bread, eggs}"
+30,"{milk, eggs, bread, cheese}"
+31,{milk}
+32,"{bread, eggs, cheese, milk}"
+33,"{cheese, eggs, bread}"
+34,"{milk, cheese, bread}"
+35,"{milk, bread, eggs}"
+36,"{eggs, milk, cheese}"
+37,"{milk, bread, eggs}"
+38,"{milk, bread, cheese}"
+39,{milk}
+40,"{milk, cheese, eggs, bread}"
+41,"{eggs, milk, bread}"
+42,"{eggs, bread, milk, cheese}"
+43,"{cheese, eggs, bread, milk}"
+44,{bread}
+45,"{milk, cheese, eggs, bread}"
+46,"{eggs, milk}"
+47,{eggs}
+48,"{bread, eggs}"
+49,"{bread, milk, eggs, cheese}"
+50,"{cheese, eggs, milk, bread}"
+51,"{bread, milk}"
+52,{bread}
+53,"{milk, bread, eggs, cheese}"
+54,"{eggs, bread, milk, cheese}"
+55,{cheese}
+56,"{cheese, eggs, bread, milk}"
+57,"{milk, eggs, bread}"
+58,"{bread, cheese}"
+59,"{bread, milk, cheese, eggs}"
+60,"{milk, eggs}"
+61,{eggs}
+62,"{bread, milk}"
+63,{milk}
+64,"{eggs, bread, milk}"
+65,"{cheese, eggs, bread}"
+66,"{milk, cheese}"
+67,"{bread, milk, eggs}"
+68,"{eggs, bread, cheese, milk}"
+69,{eggs}
+70,"{eggs, bread, cheese}"
+71,{eggs}
+72,{cheese}
+73,"{bread, eggs, milk}"
+74,"{milk, eggs, bread}"
+75,"{cheese, eggs, milk, bread}"
+76,{bread}
+77,"{eggs, milk, cheese, bread}"
+78,"{milk, bread}"
+79,"{eggs, bread}"
+80,"{eggs, cheese}"
+81,"{eggs, bread}"
+82,"{eggs, cheese, milk}"
+83,"{bread, cheese, eggs}"
+84,{bread}
+85,"{eggs, milk, bread, cheese}"
+86,{cheese}
+87,{milk}
+88,"{cheese, bread, eggs, milk}"
+89,"{bread, eggs}"
+90,"{milk, cheese}"
+91,{milk}
+92,"{eggs, milk, bread, cheese}"
+93,"{eggs, milk, bread, cheese}"
+94,{eggs}
+95,"{bread, eggs}"
+96,{eggs}
+97,"{milk, eggs}"
+98,"{bread, milk, cheese}"
+99,"{bread, eggs, milk, cheese}"
+100,"{cheese, milk, eggs}"

@@ -1,0 +1,101 @@
+Transaction ID,Items
+1,"{monitor, mouse, keyboard}"
+2,"{monitor, mouse, computer}"
+3,"{computer, monitor}"
+4,"{monitor, computer}"
+5,{mouse}
+6,"{mouse, computer}"
+7,"{monitor, computer}"
+8,"{mouse, keyboard, computer, monitor}"
+9,"{monitor, keyboard, mouse, computer}"
+10,{keyboard}
+11,"{mouse, keyboard, monitor, computer}"
+12,"{computer, mouse, monitor, keyboard}"
+13,"{monitor, computer, mouse}"
+14,"{keyboard, mouse, monitor}"
+15,"{monitor, keyboard}"
+16,"{keyboard, mouse}"
+17,"{monitor, computer, mouse}"
+18,{monitor}
+19,"{keyboard, monitor, computer, mouse}"
+20,"{monitor, keyboard, mouse, computer}"
+21,"{computer, mouse, monitor, keyboard}"
+22,"{mouse, computer}"
+23,"{computer, monitor}"
+24,{mouse}
+25,"{computer, mouse, monitor}"
+26,"{keyboard, monitor, mouse, computer}"
+27,"{keyboard, computer, mouse}"
+28,{computer}
+29,{computer}
+30,"{computer, keyboard}"
+31,{monitor}
+32,"{keyboard, monitor}"
+33,{mouse}
+34,"{monitor, computer}"
+35,{mouse}
+36,"{mouse, computer, keyboard, monitor}"
+37,"{mouse, keyboard, computer, monitor}"
+38,"{monitor, keyboard, computer}"
+39,"{keyboard, monitor}"
+40,"{computer, mouse, monitor, keyboard}"
+41,{monitor}
+42,"{mouse, computer, keyboard, monitor}"
+43,"{monitor, mouse, computer}"
+44,"{computer, mouse}"
+45,{monitor}
+46,"{monitor, computer, mouse, keyboard}"
+47,{keyboard}
+48,"{computer, keyboard, monitor, mouse}"
+49,"{monitor, mouse, computer, keyboard}"
+50,"{mouse, computer, keyboard, monitor}"
+51,"{keyboard, computer, monitor}"
+52,"{keyboard, computer, mouse}"
+53,"{computer, mouse}"
+54,"{mouse, computer}"
+55,{monitor}
+56,"{computer, monitor}"
+57,{computer}
+58,"{monitor, keyboard, computer, mouse}"
+59,{mouse}
+60,"{monitor, mouse}"
+61,"{computer, keyboard, monitor}"
+62,"{mouse, computer, keyboard, monitor}"
+63,"{keyboard, monitor}"
+64,{monitor}
+65,"{monitor, computer, keyboard}"
+66,"{mouse, keyboard}"
+67,"{computer, monitor, mouse}"
+68,"{monitor, computer}"
+69,"{mouse, monitor, computer, keyboard}"
+70,"{computer, mouse, monitor}"
+71,"{monitor, computer, mouse, keyboard}"
+72,"{keyboard, computer, mouse, monitor}"
+73,"{mouse, computer, keyboard, monitor}"
+74,"{monitor, computer}"
+75,{monitor}
+76,"{keyboard, mouse, computer, monitor}"
+77,{keyboard}
+78,"{computer, monitor, mouse}"
+79,"{keyboard, monitor, computer}"
+80,"{keyboard, computer, mouse, monitor}"
+81,"{computer, keyboard, monitor}"
+82,"{monitor, mouse}"
+83,"{mouse, computer}"
+84,"{keyboard, monitor, computer, mouse}"
+85,"{monitor, keyboard, mouse}"
+86,{mouse}
+87,{keyboard}
+88,{monitor}
+89,"{monitor, computer, keyboard, mouse}"
+90,"{keyboard, mouse, computer}"
+91,"{mouse, keyboard, computer, monitor}"
+92,"{monitor, computer, keyboard}"
+93,"{keyboard, monitor, computer, mouse}"
+94,"{mouse, monitor}"
+95,"{monitor, keyboard, computer}"
+96,"{monitor, computer}"
+97,"{keyboard, computer}"
+98,{computer}
+99,{monitor}
+100,"{mouse, computer, keyboard}"
