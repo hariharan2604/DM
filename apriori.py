@@ -47,17 +47,15 @@ def convert_csv_to_transactions(csv_file):
     with open(csv_file, 'r') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            items = row['Items'].replace('{', '').replace('}', '').split(', ')
+            items = row['Items'].split(';')
             transactions.append(set(items))
     return transactions
-
-# Example usage:
-csv_file = 'computer.csv'  # Replace 'transactions.csv' with the path to your CSV file
+csv_file = "test.csv"
 transactions = convert_csv_to_transactions(csv_file)
-
-min_support = 2  # Setting minimum support as count instead of a fraction
+min_support = 2
 frequent_itemsets = apriori(transactions, min_support)
-print("Frequent Itemsets:")
+print("Frequent Itemsets:\n")
 for itemset, support in frequent_itemsets:
-    items = ', '.join(itemset)
-    print(f"{items} => support = {support}")
+        items = ', '.join(itemset)
+        print(f"{items} => support = {support}")
+
